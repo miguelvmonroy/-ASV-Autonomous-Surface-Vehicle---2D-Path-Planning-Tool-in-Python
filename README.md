@@ -11,6 +11,9 @@ interpolacion_modular/
 ├── main.py            # Script principal
 ├── interpolador.py    # Funciones matemáticas y validaciones
 └── graficador.py      # Visualización y exportación de resultados
+└── amperimetro.py      # Visualización y exportación de resultados
+└── voltimetro.py      # Visualización y exportación de resultados
+└── tacometro.py      # Visualización y exportación de resultados
 ```
 
 ## 🛠️ Requisitos
